@@ -1,0 +1,1 @@
+public class Test {public  double funk(double x){return x*x*x +1;}}
